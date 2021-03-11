@@ -1,0 +1,18 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+		FEMALE STUDENTS
+
+NUMBER OF STUDENTS: 24
+       SUM OF GPAs: 1401.50
+   Avarage of GPAs: 58.40
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+		MALE STUDENTS
+
+NUMBER OF STUDENTS: 25
+       SUM OF GPAs: 1944.50
+   Avarage of GPAs: 77.78
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
